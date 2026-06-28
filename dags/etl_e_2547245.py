@@ -211,7 +211,7 @@ with DAG(
         conn = mysql.connector.connect(
             host="host.docker.internal",
             user="root",
-            password="Sachin10$$",
+            password="Your Password",
             port=3306
         )
 
