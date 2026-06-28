@@ -1,0 +1,23 @@
+order_id,customer_id,customer_name,product_id,product_name,category,brand,quantity,unit_price,discount_pct,order_date,shipped_date,delivery_date,payment_mode,return_status,city,final_amount,delivery_days,is_delayed,return_flag
+EC001,C001,Aarav Sharma,P101,Samsung Galaxy M34,Mobile,Samsung,1.0,18999.0,10,2024-01-15,2024-01-16,2024-01-18,UPI,No Return,Mumbai,17099.100000000002,3.0,0,0
+EC002,C002,Priya Nair,P102,Nike Air Max,Footwear,Nike,2.0,8499.0,5,2024-01-15,2024-01-17,,Card,No Return,Delhi,16148.099999999999,-1.0,0,0
+EC004,C003,None,nan,Boat Airdopes 141,Electronics,Boat,3.0,1299.0,0,2024-01-16,2024-01-17,2024-01-19,UPI,No Return,Chennai,3897.0,3.0,0,0
+EC005,C004,Sneha Iyer,P104,HP Laptop 15s,Electronics,HP,1.0,45999.0,8,2024-01-17,2024-01-19,2024-01-21,Card,No Return,Hyderabad,42319.08,4.0,0,0
+EC006,C005,Kiran Rao,P105,Prestige Cooker 5L,Kitchen,Prestige,2.0,2199.0,12,2024-01-17,,2024-01-20,UPI,No Return,Pune,3870.2400000000002,3.0,0,0
+EC007,C006,Divya Pillai,P106,Himalaya Face Wash,Beauty,Himalaya,5.0,249.0,0,2024-01-18,2024-01-19,2024-01-21,COD,No Return,Mumbai,1245.0,3.0,0,0
+EC008,C007,Arjun Reddy,P107,Fastrack Watch,Accessories,Fastrack,1.0,1899.0,10,2024-01-18,2024-01-20,2024-01-22,Card,No Return,Delhi,1709.1000000000001,4.0,0,0
+EC009,nan,Meena Krishnan,P108,Kindle Paperwhite,Electronics,Amazon,1.0,9999.0,0,2024-01-19,2024-01-21,2024-01-23,UPI,No Return,Bengaluru,9999.0,4.0,0,0
+EC010,C008,Suresh Patel,P101,Samsung Galaxy M34,Mobile,Samsung,1.0,18999.0,10,2024-01-19,2024-01-20,2024-01-22,COD,Returned,Chennai,17099.100000000002,3.0,0,1
+EC011,C009,Lakshmi Bhat,P109,Whirlpool Washing Machine,Appliances,Whirlpool,1.0,28999.0,5,2024-01-20,2024-01-22,,Card,No Return,Hyderabad,27549.05,-1.0,0,0
+EC013,C010,Vijay Kumar,P111,Canon DSLR 1500D,Electronics,Canon,1.0,35999.0,7,2024-01-21,2024-01-23,2024-01-25,Card,No Return,Mumbai,33479.07,4.0,0,0
+EC014,C011,Ananya Das,P112,Milton Water Bottle,Kitchen,Milton,4.0,599.0,0,2024-01-21,,2024-01-23,COD,No Return,Delhi,2396.0,2.0,0,0
+EC015,C012,Ramesh Nair,P103,Levi's Jeans 511,Clothing,Levi's,2.0,3499.0,15,2024-01-22,2024-01-23,2024-01-25,UPI,No Return,Bengaluru,5948.3,3.0,0,0
+EC016,nan,None,P104,HP Laptop 15s,Electronics,HP,1.0,45999.0,8,2024-01-22,2024-01-24,2024-01-26,Card,No Return,Chennai,42319.08,4.0,0,0
+EC017,C013,Kavitha Menon,P113,Bata Formal Shoes,Footwear,Bata,1.0,2499.0,0,2024-01-23,2024-01-25,2024-01-27,COD,Returned,Hyderabad,2499.0,4.0,0,1
+EC018,C014,Anil Sharma,P102,Nike Air Max,Footwear,Nike,1.0,8499.0,5,2024-01-23,2024-01-24,,UPI,No Return,Pune,8074.049999999999,-1.0,0,0
+EC019,C015,Deepa Rao,P114,Philips Air Fryer,Kitchen,Philips,1.0,7999.0,10,2024-01-24,2024-01-26,2024-01-28,Card,No Return,Mumbai,7199.1,4.0,0,0
+EC021,C016,Sanjay Pillai,P115,Lakme Lipstick,Beauty,Lakme,3.0,449.0,0,2024-01-25,2024-01-26,2024-01-28,COD,No Return,Bengaluru,1347.0,3.0,0,0
+EC022,C017,Pooja Reddy,P116,Adidas Backpack,Accessories,Adidas,1.0,2799.0,12,2024-01-25,2024-01-27,,Card,No Return,Chennai,2463.12,-1.0,0,0
+EC023,C018,Harish Iyer,P107,Fastrack Watch,Accessories,Fastrack,2.0,1899.0,10,2024-01-26,2024-01-28,2024-01-30,UPI,No Return,Hyderabad,3418.2000000000003,4.0,0,0
+EC024,C019,Nisha Kumar,P109,Whirlpool Washing Machine,Appliances,Whirlpool,1.0,28999.0,5,2024-01-26,,2024-01-29,COD,No Return,Pune,27549.05,3.0,0,0
+EC025,C020,Prasad Bhat,P110,Puma T-Shirt,Clothing,Puma,4.0,1299.0,20,2024-01-27,2024-01-28,2024-01-30,Card,No Return,Mumbai,4156.8,3.0,0,0

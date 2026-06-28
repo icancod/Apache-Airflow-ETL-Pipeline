@@ -1,0 +1,3 @@
+CREATE DATABASE raw;
+CREATE DATABASE staging;
+CREATE DATABASE reporting;
